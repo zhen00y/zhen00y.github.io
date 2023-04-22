@@ -60,7 +60,7 @@ header li{
     background-color: #1f56ab;
 }
 #latest h3{
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     color: white;
 }
 #latest img{
@@ -90,7 +90,6 @@ header li{
 #latest .lower h3{
     font-size: 26px;
     margin-top: 10px;
-    margin-bottom:-20px;
     color: black;
 }
 #latest .lower span{
