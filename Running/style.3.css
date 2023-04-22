@@ -56,11 +56,11 @@ header li{
 }
 
 #latest{
-    padding: 40px 0;
+    padding: 10px 0;
     background-color: #1f56ab;
 }
 #latest h3{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: white;
 }
 #latest img{
