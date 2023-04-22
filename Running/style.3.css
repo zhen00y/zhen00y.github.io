@@ -89,7 +89,7 @@ header li{
 
 #latest .lower h3{
     font-size: 26px;
-/*     margin-top: 10px; */
+margin-bottom: 0px;
     color: black;
 }
 #latest .lower span{
